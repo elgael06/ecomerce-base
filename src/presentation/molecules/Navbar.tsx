@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { RootLayoutLinkInterface } from "@/domain/models/RootLayoutLink";
+import {RootLayoutLinkInterface} from "@/domain/models/";
 
 const accessLinks: RootLayoutLinkInterface[] = [
   { title: 'Inicio', uri: '/' },
